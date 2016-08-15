@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+	position: relative;
+	top: 10vh;
+	width: 40vw;
+	margin: auto;
+}
+
+nav ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	overflow: hidden;
+}
+
+nav ul li {
+	float: left;
+}
+
+nav ul li a {
+	padding: 16px;
+}
+
+#contact {
+	float: right;
+	padding-right:16px;
+}
+
+.content img {
+	width: 200px;
+	height: auto;
+	float: left;
+	padding-right: 16px;
+}
+
+.content h3 {
+	padding-top: 16px;
+}
+
+#stevens {
+	display: block
+	width: 50px;
+	float: right;
+}
