@@ -6,7 +6,7 @@ body {
 .wrapper {
 	position: relative;
 	top: 10vh;
-	width: 40vw;
+	width: 640px;
 	margin: auto;
 }
 
@@ -41,8 +41,8 @@ nav ul li a {
 	padding-top: 16px;
 }
 
-#stevens {
-	display: block
-	width: 50px;
+.logo {
+	display: block;
+	width: 200px;
 	float: right;
 }
