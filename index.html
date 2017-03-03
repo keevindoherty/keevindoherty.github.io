@@ -1,26 +1,25 @@
 <!DOCTYPE html>
   <head>
     <title>Kevin Doherty</title>
-    <link rel="stylesheet" type="text/css" href="css/main.css">
-  </head>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"/>
+    <link rel="stylesheet" type="text/css" href="css/main.css"/>
+</head>
   <body>
     <div class="wrapper">
-    <nav role="navigation">
-			   <div class="container">
-		         <div id="navbar">
-               <ul class="nav navbar-nav">
-                 <li class="active"><a href="index.html">About</a></li>
-		             <li><a href="research.html">Publications</a></li>
-                 <li><a href="docs/doherty-cv.pdf">CV</a></li>
-                 <li><a href="etc.html">Etc</a></li>
-                 <li id="contact"><a href="#contact-me">Contact</a></li>
-		           </ul>
-		        </div>
-			   </div>
+    <nav class="navbar" role="navigation">
+        <ul class="nav navbar-nav">
+          <li class="active"><a href="index.html">About</a></li>
+  	      <li><a href="research.html">Publications</a></li>
+          <li><a href="docs/doherty-cv.pdf">CV</a></li>
+          <li><a href="etc.html">Etc</a></li>
+  	    </ul>
+        <ul class="nav navbar-nav" id="contact">
+          <li><a href="#contact-me">Contact</a></li>
+  	    </ul>
     </nav>
     <div class="content">
       <h2> Kevin Doherty </h2>
-      <img src="img/latest.png">
+      <img src="img/latest.png"/>
       <p> I'm a student at <a href="http://www.stevens.edu/">Stevens Institute of Technology</a> studying Electrical Engineering and Computer Science. I currently research autonomous robotics under Prof. Brendan Englot in the <a href="http://personal.stevens.edu/~benglot/">Robust Field Autonomy Lab</a>, where my research focus has been broadly at the intersection of machine learning and robotics, with specific applications in underwater mapping and exploration.</p>
       <p> Most recently, I was a summer research intern at <a href="http://www.ll.mit.edu/">MIT Lincoln Laboratory </a> where I worked on problems in robot mapping. </p>
       <div style="clear: both;"></div>
@@ -33,7 +32,9 @@
       </ul>
       <hr>
     </div>
-        <a href="http://www.stevens.edu/"><img class="logo" src="img/stevens.png"></a>
+      <div class="logo">
+        <a href="http://www.stevens.edu/"><img src="img/stevens.png"/></a>
+      </div>
     </div>
 
     <div id="contact-me" class="overlay">

@@ -1,22 +1,21 @@
 <!DOCTYPE html>
   <head>
     <title>Kevin Doherty</title>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"/>
     <link rel="stylesheet" type="text/css" href="css/main.css">
   </head>
   <body>
     <div class="wrapper">
-    <nav role="navigation">
-			   <div class="container">
-		         <div id="navbar">
-               <ul class="nav navbar-nav">
-                 <li><a href="index.html">About</a></li>
-		             <li><a href="research.html">Publications</a></li>
-                 <li><a href="docs/doherty-cv.pdf">CV</a></li>
-                 <li class="active"><a href="etc.html">Etc</a></li>
-                 <li id="contact"><a href="#contact-me">Contact</a></li>
-		           </ul>
-		        </div>
-			   </div>
+    <nav class="navbar" role="navigation">
+        <ul class="nav navbar-nav">
+          <li><a href="index.html">About</a></li>
+          <li><a href="research.html">Publications</a></li>
+          <li><a href="docs/doherty-cv.pdf">CV</a></li>
+          <li class="active"><a href="etc.html">Etc</a></li>
+        </ul>
+        <ul class="nav navbar-nav" id="contact">
+          <li><a href="#contact-me">Contact</a></li>
+        </ul>
     </nav>
     <div class="content">
       <h2> Etc </h2>
@@ -30,7 +29,9 @@
         <div style="clear: both;"></div>
       <hr>
     </div>
-        <a href="http://www.stevens.edu/"><img class="logo" src="img/stevens.png"></a>
+      <div class="logo">
+        <a href="http://www.stevens.edu/"><img src="img/stevens.png"/></a>
+      </div>
     </div>
 
     <div id="contact-me" class="overlay">
