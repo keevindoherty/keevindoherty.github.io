@@ -153,4 +153,8 @@ tt {
   .wrapper {
     width: 100%;
   }
+
+  .popup {
+    width: 60%;
+  }
 }
