@@ -124,8 +124,13 @@ tt {
 	font-size: 13px;
 }
 
-.logo {
-  display: block;
+
+.logo-left {
+  float: left;
+  padding-bottom: 10px;
+}
+
+.logo-right {
   float: right;
   padding-bottom: 10px;
 }
