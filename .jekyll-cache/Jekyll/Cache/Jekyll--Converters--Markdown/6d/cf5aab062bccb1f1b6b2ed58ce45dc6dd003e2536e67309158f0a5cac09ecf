@@ -1,0 +1,473 @@
+I"∑8<p>Publications by categories in reverse chronological order. See <a href="https://scholar.google.com/citations?user=IYPhbO0AAAAJ">Google Scholar</a> for an up-to-date list.
+<!-- _pages/publications.md --></p>
+<div class="publications">
+
+<h2> Theses </h2>
+
+<hr />
+
+<h2> Preprints </h2>
+  <h2 class="year">2022</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="dohertySparseSupplement" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Spectral Measurement Sparsification for Pose-Graph SLAM</div>
+          <!-- Author -->
+          <div class="author">
+                  <em>Doherty, Kevin</em>,&nbsp;Rosen, David M.,&nbsp;and Leonard, John J.
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            2022
+          </div>Submitted to IROS 2022
+          <!---->
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="lu2022slam" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">SLAM-Supported Self-Training for 6D Object Pose Estimation</div>
+          <!-- Author -->
+          <div class="author">Lu, Ziqi,&nbsp;Zhang, Yihao,&nbsp;
+                  <em>Doherty, Kevin</em>,&nbsp;Severinsen, Odin,&nbsp;Yang, Ethan,&nbsp;and Leonard, John J.
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>arXiv preprint arxiv:2203.04424</em> 2022
+          </div>Submitted to IROS 2022
+          <!---->
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a href="http://arxiv.org/abs/2203.04424" class="btn btn-sm z-depth-0" role="button">arXiv</a>
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+
+<hr />
+
+<h2> Refereed Conference and Journal Publications </h2>
+  <h2 class="year">2022</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="pearson2022improving" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Improving obstacle boundary representations in predictive occupancy mapping</div>
+          <!-- Author -->
+          <div class="author">Pearson, Erik,&nbsp;
+                  <em>Doherty, Kevin</em>,&nbsp;and Englot, Brendan
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Robotics and Autonomous Systems</em> 2022
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="doherty2022performance" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Performance Guarantees for Spectral Initialization in Rotation Averaging and Pose-Graph SLAM</div>
+          <!-- Author -->
+          <div class="author">
+                  <em>Doherty, Kevin</em>,&nbsp;Rosen, David M,&nbsp;and Leonard, John J
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>arXiv preprint arXiv:2201.03773</em> 2022
+          </div>Accepted for presentation at ICRA 2022
+          <!---->
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2021</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="rosen2021advances" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Advances in Inference and Representation for Simultaneous Localization and Mapping</div>
+          <!-- Author -->
+          <div class="author">Rosen, David M,&nbsp;
+                  <em>Doherty, Kevin</em>,&nbsp;Espinoza, Antonio Ter√°n,&nbsp;and Leonard, John J
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Annual Review of Control, Robotics, and Autonomous Systems</em> 2021
+          </div>\textcolorredInvited article
+          <!---->
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="lu2021consensus" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Consensus-Informed Optimization Over Mixtures for Ambiguity-Aware Object SLAM</div>
+          <!-- Author -->
+          <div class="author">Lu, Ziqi,&nbsp;Huang, Qiangqiang,&nbsp;
+                  <em>Doherty, Kevin</em>,&nbsp;and Leonard, John J.
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>In 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em> 2021
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="fu2021multi" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">A Multi-Hypothesis Approach to Pose Ambiguity in Object-Based SLAM</div>
+          <!-- Author -->
+          <div class="author">Fu, Jiahui,&nbsp;Huang, Qiangqiang,&nbsp;
+                  <em>Doherty, Kevin</em>,&nbsp;Wang, Yue,&nbsp;and Leonard, John J.
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>In 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em> 2021
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2020</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="martin2020variational" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Variational Filtering with Copula Models for SLAM</div>
+          <!-- Author -->
+          <div class="author">Martin*, John D,&nbsp;Doherty*, Kevin,&nbsp;Cyr, Caralyn,&nbsp;Englot, Brendan,&nbsp;and Leonard, John
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>In 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em> 2020
+          </div>*Equal contributors.
+          <!---->
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="doherty2020probabilistic" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Probabilistic Data Association via Mixture Models for Robust Semantic SLAM</div>
+          <!-- Author -->
+          <div class="author">
+                  <em>Doherty, Kevin</em>,&nbsp;Baxter*, David P,&nbsp;Schneeweiss*, Edward,&nbsp;and Leonard, John J
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>In 2020 IEEE International Conference on Robotics and Automation (ICRA)</em> 2020
+          </div>*Equal contributors.
+          <!---->
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2019</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="doherty2019learning" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Learning-aided 3-D Occupancy Mapping with Bayesian Generalized Kernel Inference</div>
+          <!-- Author -->
+          <div class="author">
+                  <em>Doherty, Kevin</em>,&nbsp;Shan, Tixiao,&nbsp;Wang, Jinkun,&nbsp;and Englot, Brendan
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>IEEE Transactions on Robotics</em> 2019
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="doherty2019multimodal" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Multimodal Semantic SLAM with Probabilistic Data Association</div>
+          <!-- Author -->
+          <div class="author">
+                  <em>Doherty, Kevin</em>,&nbsp;Fourie, Dehann,&nbsp;and Leonard, John
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>In 2019 International Conference on Robotics and Automation (ICRA)</em> 2019
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2018</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="doherty2018approximate" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Approximate Distributed Spatiotemporal Topic Models for Multi-Robot Terrain Characterization</div>
+          <!-- Author -->
+          <div class="author">
+                  <em>Doherty, Kevin</em>,&nbsp;Flaspohler, Genevieve,&nbsp;Roy, Nicholas,&nbsp;and Girdhar, Yogesh
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>In 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em> 2018
+          </div>\textcolorredBest Paper Award Finalist (6 finalists of 1,254 papers)
+          <!---->
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="shan2018bayesian" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Bayesian Generalized Kernel Inference for Terrain Traversability Mapping</div>
+          <!-- Author -->
+          <div class="author">Shan, Tixiao,&nbsp;
+                  <em>Doherty, Kevin</em>,&nbsp;Wang, Jinkun,&nbsp;and Englot, Brendan
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>In Conference on Robot Learning</em> 2018
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2017</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="doherty2017bayesian" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Bayesian Generalized Kernel Inference for Occupancy Map Prediction</div>
+          <!-- Author -->
+          <div class="author">
+                  <em>Doherty, Kevin</em>,&nbsp;Wang, Jinkun,&nbsp;and Englot, Brendan
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>In 2017 IEEE International Conference on Robotics and Automation (ICRA)</em> 2017
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2016</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="doherty2016probabilistic" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Probabilistic Map Fusion for Fast, Incremental Occupancy Mapping with 3D Hilbert Maps</div>
+          <!-- Author -->
+          <div class="author">
+                  <em>Doherty, Kevin</em>,&nbsp;Wang, Jinkun,&nbsp;and Englot, Brendan
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>In 2016 IEEE International Conference on Robotics and Automation (ICRA)</em> 2016
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2015</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="bai2015inference" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Inference-enabled Information-theoretic Exploration of Continuous Action Spaces</div>
+          <!-- Author -->
+          <div class="author">Bai, Shi,&nbsp;Wang, Jinkun,&nbsp;
+                  <em>Doherty, Kevin</em>,&nbsp;and Englot, Brendan
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>In International Symposium on Robotics Research (ISRR</em> 2015
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+
+</div>
+:ET

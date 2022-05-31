@@ -5,8 +5,6 @@
     "pearson2022improving"
     "rosen2021advances"
     "doherty2019learning"
-    "dohertySparseSupplement"
-    "lu2022slam"
     "lu2021consensus"
     "fu2021multi"
     "martin2020variational"

@@ -1,5 +1,75 @@
-I"5<!-- _pages/publications.md -->
+I"9<p>Publications by categories in reverse chronological order. See <a href="https://scholar.google.com/citations?user=IYPhbO0AAAAJ">Google Scholar</a> for an up-to-date list.
+<!-- _pages/publications.md --></p>
 <div class="publications">
+
+<h2> Theses </h2>
+
+<hr />
+
+<h2> Preprints </h2>
+  <h2 class="year">2022</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="dohertySparseSupplement" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Spectral Measurement Sparsification for Pose-Graph SLAM</div>
+          <!-- Author -->
+          <div class="author">
+                  <em>Doherty, Kevin</em>,&nbsp;Rosen, David M.,&nbsp;and Leonard, John J.
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            2022
+          </div>Submitted to IROS 2022
+          <!---->
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="lu2022slam" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">SLAM-Supported Self-Training for 6D Object Pose Estimation</div>
+          <!-- Author -->
+          <div class="author">Lu, Ziqi,&nbsp;Zhang, Yihao,&nbsp;
+                  <em>Doherty, Kevin</em>,&nbsp;Severinsen, Odin,&nbsp;Yang, Ethan,&nbsp;and Leonard, John J.
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>arXiv preprint arxiv:2203.04424</em> 2022
+          </div>Submitted to IROS 2022
+          <!---->
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a href="http://arxiv.org/abs/2203.04424" class="btn btn-sm z-depth-0" role="button">arXiv</a>
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+
+<hr />
+
+<h2> Refereed Conference and Journal Publications </h2>
   <h2 class="year">2022</h2>
   <ol class="bibliography"><li><!-- _layouts/bib.html -->
       <div class="row">
@@ -33,73 +103,23 @@
         <div class="col-sm-2 abbr"></div>
 
         <!-- Entry bib key -->
-        <div id="dohertySparseSupplement" class="col-sm-8">
-        
-          <!-- Title -->
-          <div class="title">Spectral Measurement Sparsification for Pose-Graph SLAM</div>
-          <!-- Author -->
-          <div class="author">Doherty, Kevin J.,&nbsp;Rosen, David M.,&nbsp;and Leonard, John J.
-          </div>
-
-          <!-- Journal/Book title and date -->
-          <div class="periodical">
-            2022
-          </div>
-        
-          <!-- Links/Buttons -->
-          <div class="links">
-          </div>
-
-          
-        </div>
-      </div>
-</li>
-<li><!-- _layouts/bib.html -->
-      <div class="row">
-        <div class="col-sm-2 abbr"></div>
-
-        <!-- Entry bib key -->
-        <div id="lu2022slam" class="col-sm-8">
-        
-          <!-- Title -->
-          <div class="title">SLAM-Supported Self-Training for 6D Object Pose Estimation</div>
-          <!-- Author -->
-          <div class="author">Lu, Ziqi,&nbsp;Zhang, Yihao,&nbsp;\textbfDoherty, Kevin,&nbsp;Severinsen, Odin,&nbsp;Yang, Ethan,&nbsp;and Leonard, John J.
-          </div>
-
-          <!-- Journal/Book title and date -->
-          <div class="periodical">
-            <em>arXiv preprint arxiv:2203.04424</em> 2022
-          </div>
-        
-          <!-- Links/Buttons -->
-          <div class="links">
-          </div>
-
-          
-        </div>
-      </div>
-</li>
-<li><!-- _layouts/bib.html -->
-      <div class="row">
-        <div class="col-sm-2 abbr"></div>
-
-        <!-- Entry bib key -->
         <div id="doherty2022performance" class="col-sm-8">
         
           <!-- Title -->
           <div class="title">Performance Guarantees for Spectral Initialization in Rotation Averaging and Pose-Graph SLAM</div>
           <!-- Author -->
-          <div class="author">Doherty, Kevin J.,&nbsp;Rosen, David M,&nbsp;and Leonard, John J
+          <div class="author">
+                  <em>Doherty, Kevin</em>,&nbsp;Rosen, David M,&nbsp;and Leonard, John J
           </div>
 
           <!-- Journal/Book title and date -->
           <div class="periodical">
-            <em>arXiv preprint arXiv:2201.03773</em> 2022
+            <em>In 2022 IEEE International Conference on Robotics and Automation (ICRA)</em> 2022
           </div>
         
           <!-- Links/Buttons -->
           <div class="links">
+            <a href="http://arxiv.org/abs/2201.03773" class="btn btn-sm z-depth-0" role="button">arXiv</a>
           </div>
 
           
@@ -118,13 +138,15 @@
           <!-- Title -->
           <div class="title">Advances in Inference and Representation for Simultaneous Localization and Mapping</div>
           <!-- Author -->
-          <div class="author">Rosen, David M,&nbsp;Doherty, Kevin J,&nbsp;Espinoza, Antonio Terán,&nbsp;and Leonard, John J
+          <div class="author">Rosen, David M,&nbsp;
+                  <em>Doherty, Kevin</em>,&nbsp;Espinoza, Antonio Terán,&nbsp;and Leonard, John J
           </div>
 
           <!-- Journal/Book title and date -->
           <div class="periodical">
             <em>Annual Review of Control, Robotics, and Autonomous Systems</em> 2021
-          </div>
+          </div>\textcolorredInvited article
+          <!---->
         
           <!-- Links/Buttons -->
           <div class="links">
@@ -206,7 +228,8 @@
           <!-- Journal/Book title and date -->
           <div class="periodical">
             <em>In 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em> 2020
-          </div>
+          </div>*Equal contributors.
+          <!---->
         
           <!-- Links/Buttons -->
           <div class="links">
@@ -226,13 +249,15 @@
           <!-- Title -->
           <div class="title">Probabilistic Data Association via Mixture Models for Robust Semantic SLAM</div>
           <!-- Author -->
-          <div class="author">Doherty, Kevin J,&nbsp;Baxter*, David P,&nbsp;Schneeweiss*, Edward,&nbsp;and Leonard, John J
+          <div class="author">
+                  <em>Doherty, Kevin</em>,&nbsp;Baxter*, David P,&nbsp;Schneeweiss*, Edward,&nbsp;and Leonard, John J
           </div>
 
           <!-- Journal/Book title and date -->
           <div class="periodical">
             <em>In 2020 IEEE International Conference on Robotics and Automation (ICRA)</em> 2020
-          </div>
+          </div>*Equal contributors.
+          <!---->
         
           <!-- Links/Buttons -->
           <div class="links">
@@ -317,7 +342,8 @@
           <!-- Journal/Book title and date -->
           <div class="periodical">
             <em>In 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em> 2018
-          </div>
+          </div>\textcolorredBest Paper Award Finalist (6 finalists of 1,254 papers)
+          <!---->
         
           <!-- Links/Buttons -->
           <div class="links">
