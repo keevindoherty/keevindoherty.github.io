@@ -1,8 +1,37 @@
-I"?<p>Publications by categories in reverse chronological order. See <a href="https://scholar.google.com/citations?user=IYPhbO0AAAAJ">Google Scholar</a> for an up-to-date list.
+I"�A<p>Publications by categories in reverse chronological order. See <a href="https://scholar.google.com/citations?user=IYPhbO0AAAAJ">Google Scholar</a> for an up-to-date list.
 <!-- _pages/publications.md --></p>
 <div class="publications">
 
 <h2> Theses </h2>
+  <h2 class="year">2019</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="doherty2019robust" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Robust Non-Gaussian Semantic Simultaneous Localization and Mapping</div>
+          <!-- Author -->
+          <div class="author">Kevin J Doherty
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            2019
+          </div>S.M. Thesis
+          <!---->
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
 
 <hr />
 
@@ -18,7 +47,7 @@
           <!-- Title -->
           <div class="title">Discrete-Continuous Smoothing and Mapping</div>
           <!-- Author -->
-          <div class="author">Doherty, Kevin J,&nbsp;Lu, Ziqi,&nbsp;Singh, Kurran,&nbsp;and Leonard, John J
+          <div class="author">Kevin J Doherty,&nbsp;Ziqi Lu,&nbsp;Kurran Singh,&nbsp;and John J Leonard
           </div>
 
           <!-- Journal/Book title and date -->
@@ -48,7 +77,7 @@
           <div class="title">Spectral Measurement Sparsification for Pose-Graph SLAM</div>
           <!-- Author -->
           <div class="author">
-                  <em>Kevin Doherty</em>,&nbsp;Rosen, David M.,&nbsp;and Leonard, John J.
+                  <em>Kevin Doherty</em>,&nbsp;David M. Rosen,&nbsp;and John J. Leonard
           </div>
 
           <!-- Journal/Book title and date -->
@@ -77,8 +106,8 @@
           <!-- Title -->
           <div class="title">SLAM-Supported Self-Training for 6D Object Pose Estimation</div>
           <!-- Author -->
-          <div class="author">Lu, Ziqi,&nbsp;Zhang, Yihao,&nbsp;
-                  <em>Kevin Doherty</em>,&nbsp;Severinsen, Odin,&nbsp;Yang, Ethan,&nbsp;and Leonard, John J.
+          <div class="author">Ziqi Lu,&nbsp;Yihao Zhang,&nbsp;
+                  <em>Kevin Doherty</em>,&nbsp;Odin Severinsen,&nbsp;Ethan Yang,&nbsp;and John J. Leonard
           </div>
 
           <!-- Journal/Book title and date -->
@@ -113,8 +142,8 @@
           <!-- Title -->
           <div class="title">Improving obstacle boundary representations in predictive occupancy mapping</div>
           <!-- Author -->
-          <div class="author">Pearson, Erik,&nbsp;
-                  <em>Kevin Doherty</em>,&nbsp;and Englot, Brendan
+          <div class="author">Erik Pearson,&nbsp;
+                  <em>Kevin Doherty</em>,&nbsp;and Brendan Englot
           </div>
 
           <!-- Journal/Book title and date -->
@@ -141,7 +170,7 @@
           <div class="title">Performance Guarantees for Spectral Initialization in Rotation Averaging and Pose-Graph SLAM</div>
           <!-- Author -->
           <div class="author">
-                  <em>Kevin Doherty</em>,&nbsp;Rosen, David M,&nbsp;and Leonard, John J
+                  <em>Kevin Doherty</em>,&nbsp;David M Rosen,&nbsp;and John J Leonard
           </div>
 
           <!-- Journal/Book title and date -->
@@ -170,8 +199,8 @@
           <!-- Title -->
           <div class="title">Advances in Inference and Representation for Simultaneous Localization and Mapping</div>
           <!-- Author -->
-          <div class="author">Rosen, David M,&nbsp;
-                  <em>Kevin Doherty</em>,&nbsp;Espinoza, Antonio Terán,&nbsp;and Leonard, John J
+          <div class="author">David M Rosen,&nbsp;
+                  <em>Kevin Doherty</em>,&nbsp;Antonio Terán Espinoza,&nbsp;and John J Leonard
           </div>
 
           <!-- Journal/Book title and date -->
@@ -198,8 +227,8 @@
           <!-- Title -->
           <div class="title">Consensus-Informed Optimization Over Mixtures for Ambiguity-Aware Object SLAM</div>
           <!-- Author -->
-          <div class="author">Lu, Ziqi,&nbsp;Huang, Qiangqiang,&nbsp;
-                  <em>Kevin Doherty</em>,&nbsp;and Leonard, John J.
+          <div class="author">Ziqi Lu,&nbsp;Qiangqiang Huang,&nbsp;
+                  <em>Kevin Doherty</em>,&nbsp;and John J. Leonard
           </div>
 
           <!-- Journal/Book title and date -->
@@ -225,8 +254,8 @@
           <!-- Title -->
           <div class="title">A Multi-Hypothesis Approach to Pose Ambiguity in Object-Based SLAM</div>
           <!-- Author -->
-          <div class="author">Fu, Jiahui,&nbsp;Huang, Qiangqiang,&nbsp;
-                  <em>Kevin Doherty</em>,&nbsp;Wang, Yue,&nbsp;and Leonard, John J.
+          <div class="author">Jiahui Fu,&nbsp;Qiangqiang Huang,&nbsp;
+                  <em>Kevin Doherty</em>,&nbsp;Yue Wang,&nbsp;and John J. Leonard
           </div>
 
           <!-- Journal/Book title and date -->
@@ -254,7 +283,8 @@
           <!-- Title -->
           <div class="title">Variational Filtering with Copula Models for SLAM</div>
           <!-- Author -->
-          <div class="author">Martin*, John D,&nbsp;Doherty*, Kevin,&nbsp;Cyr, Caralyn,&nbsp;Englot, Brendan,&nbsp;and Leonard, John
+          <div class="author">John D Martin*,&nbsp;
+                  <em>Kevin Doherty*</em>,&nbsp;Caralyn Cyr,&nbsp;Brendan Englot,&nbsp;and John Leonard
           </div>
 
           <!-- Journal/Book title and date -->
@@ -282,7 +312,7 @@
           <div class="title">Probabilistic Data Association via Mixture Models for Robust Semantic SLAM</div>
           <!-- Author -->
           <div class="author">
-                  <em>Kevin Doherty</em>,&nbsp;Baxter*, David P,&nbsp;Schneeweiss*, Edward,&nbsp;and Leonard, John J
+                  <em>Kevin Doherty</em>,&nbsp;David P Baxter*,&nbsp;Edward Schneeweiss*,&nbsp;and John J Leonard
           </div>
 
           <!-- Journal/Book title and date -->
@@ -312,7 +342,7 @@
           <div class="title">Learning-aided 3-D Occupancy Mapping with Bayesian Generalized Kernel Inference</div>
           <!-- Author -->
           <div class="author">
-                  <em>Kevin Doherty</em>,&nbsp;Shan, Tixiao,&nbsp;Wang, Jinkun,&nbsp;and Englot, Brendan
+                  <em>Kevin Doherty</em>,&nbsp;Tixiao Shan,&nbsp;Jinkun Wang,&nbsp;and Brendan Englot
           </div>
 
           <!-- Journal/Book title and date -->
@@ -339,7 +369,7 @@
           <div class="title">Multimodal Semantic SLAM with Probabilistic Data Association</div>
           <!-- Author -->
           <div class="author">
-                  <em>Kevin Doherty</em>,&nbsp;Fourie, Dehann,&nbsp;and Leonard, John
+                  <em>Kevin Doherty</em>,&nbsp;Dehann Fourie,&nbsp;and John Leonard
           </div>
 
           <!-- Journal/Book title and date -->
@@ -368,7 +398,7 @@
           <div class="title">Approximate Distributed Spatiotemporal Topic Models for Multi-Robot Terrain Characterization</div>
           <!-- Author -->
           <div class="author">
-                  <em>Kevin Doherty</em>,&nbsp;Flaspohler, Genevieve,&nbsp;Roy, Nicholas,&nbsp;and Girdhar, Yogesh
+                  <em>Kevin Doherty</em>,&nbsp;Genevieve Flaspohler,&nbsp;Nicholas Roy,&nbsp;and Yogesh Girdhar
           </div>
 
           <!-- Journal/Book title and date -->
@@ -395,8 +425,8 @@
           <!-- Title -->
           <div class="title">Bayesian Generalized Kernel Inference for Terrain Traversability Mapping</div>
           <!-- Author -->
-          <div class="author">Shan, Tixiao,&nbsp;
-                  <em>Kevin Doherty</em>,&nbsp;Wang, Jinkun,&nbsp;and Englot, Brendan
+          <div class="author">Tixiao Shan,&nbsp;
+                  <em>Kevin Doherty</em>,&nbsp;Jinkun Wang,&nbsp;and Brendan Englot
           </div>
 
           <!-- Journal/Book title and date -->
@@ -425,7 +455,7 @@
           <div class="title">Bayesian Generalized Kernel Inference for Occupancy Map Prediction</div>
           <!-- Author -->
           <div class="author">
-                  <em>Kevin Doherty</em>,&nbsp;Wang, Jinkun,&nbsp;and Englot, Brendan
+                  <em>Kevin Doherty</em>,&nbsp;Jinkun Wang,&nbsp;and Brendan Englot
           </div>
 
           <!-- Journal/Book title and date -->
@@ -454,7 +484,7 @@
           <div class="title">Probabilistic Map Fusion for Fast, Incremental Occupancy Mapping with 3D Hilbert Maps</div>
           <!-- Author -->
           <div class="author">
-                  <em>Kevin Doherty</em>,&nbsp;Wang, Jinkun,&nbsp;and Englot, Brendan
+                  <em>Kevin Doherty</em>,&nbsp;Jinkun Wang,&nbsp;and Brendan Englot
           </div>
 
           <!-- Journal/Book title and date -->
@@ -482,8 +512,8 @@
           <!-- Title -->
           <div class="title">Inference-enabled Information-theoretic Exploration of Continuous Action Spaces</div>
           <!-- Author -->
-          <div class="author">Bai, Shi,&nbsp;Wang, Jinkun,&nbsp;
-                  <em>Kevin Doherty</em>,&nbsp;and Englot, Brendan
+          <div class="author">Shi Bai,&nbsp;Jinkun Wang,&nbsp;
+                  <em>Kevin Doherty</em>,&nbsp;and Brendan Englot
           </div>
 
           <!-- Journal/Book title and date -->

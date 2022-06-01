@@ -5,7 +5,7 @@ title: Publications
 description: 
 years: [2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015]
 preprint-years: [2022]
-thesis-years: []
+thesis-years: [2019, 2017]
 nav: true
 ---
 Publications by categories in reverse chronological order. See [Google Scholar](https://scholar.google.com/citations?user=IYPhbO0AAAAJ) for an up-to-date list.

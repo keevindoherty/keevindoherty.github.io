@@ -1,8 +1,66 @@
-I"Î><p>Publications by categories in reverse chronological order. See <a href="https://scholar.google.com/citations?user=IYPhbO0AAAAJ">Google Scholar</a> for an up-to-date list.
+I"»D<p>Publications by categories in reverse chronological order. See <a href="https://scholar.google.com/citations?user=IYPhbO0AAAAJ">Google Scholar</a> for an up-to-date list.
 <!-- _pages/publications.md --></p>
 <div class="publications">
 
 <h2> Theses </h2>
+  <h2 class="year">2019</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="doherty2019robust" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Robust Non-Gaussian Semantic Simultaneous Localization and Mapping</div>
+          <!-- Author -->
+          <div class="author">Kevin J Doherty
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            2019
+          </div>S.M. Thesis
+          <!---->
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2017</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="doherty2019robusu" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Learning-aided 3D Occupancy Mapping for Mobile Robots</div>
+          <!-- Author -->
+          <div class="author">Kevin J Doherty
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            2017
+          </div>B.E. Thesis
+          <!---->
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
 
 <hr />
 
@@ -254,7 +312,8 @@
           <!-- Title -->
           <div class="title">Variational Filtering with Copula Models for SLAM</div>
           <!-- Author -->
-          <div class="author">John D Martin*,&nbsp;Kevin Doherty*,&nbsp;Caralyn Cyr,&nbsp;Brendan Englot,&nbsp;and John Leonard
+          <div class="author">John D Martin*,&nbsp;
+                  <em>Kevin Doherty*</em>,&nbsp;Caralyn Cyr,&nbsp;Brendan Englot,&nbsp;and John Leonard
           </div>
 
           <!-- Journal/Book title and date -->
