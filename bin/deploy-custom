@@ -35,12 +35,12 @@ while [[ $# > 0 ]]; do
         --no-push)
         NO_PUSH="--no-push"
         ;;
-	--csail
+	--csail)
 	CSAIL=true
 	SRC_BRANCH="master"
 	DEPLOY_BRANCH="deploy-csail"
 	;;
-	--mit
+	--mit)
 	MIT=true
 	SRC_BRANCH="master"
 	DEPLOY_BRANCH="deploy-mit"
