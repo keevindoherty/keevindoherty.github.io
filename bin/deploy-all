@@ -2,6 +2,6 @@
 
 ./bin/deploy
 
-./bin/deploy-custom --csail
+./bin/deploy-custom "--csail"
 
-./bin/deploy-custom --mit
+./bin/deploy-custom "--mit"
