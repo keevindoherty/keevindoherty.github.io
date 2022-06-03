@@ -1,0 +1,40 @@
+---
+layout: about
+title: About
+permalink: /
+subtitle: 
+
+profile:
+  align: left 
+  image: prof_pic.jpg
+  address: #
+
+news: true  # includes a list of news items
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
+---
+
+I'm a PhD student at the <a href="http://www.mit.edu/">Massachusetts Institute
+of Technology</a> in the <a href="http://aeroastro.mit.edu/">AeroAstro
+department</a>, as part of the <a href="http://mit.whoi.edu/">MIT/WHOI Joint
+Program</a>. I am a member of the <a
+href="http://marinerobotics.mit.edu/">Marine Robotics Group</a> in the <a
+href="http://csail.mit.edu/">Computer Science and Artificial Intelligence Lab
+(CSAIL)</a>, where I'm advised by <a
+href="https://www.csail.mit.edu/person/john-leonard">John Leonard</a>.
+
+
+My research lies at the intersection of machine learning and autonomous robotic
+navigation. I'm particularly interested in two sorts of problems: achieving
+robust machine learning on robotic systems to the benefit of navigation tasks,
+and applying constraints imposed by the physical environment to aid in learning
+on robots. My research is funded in part by an <a
+href="https://www.nsfgrfp.org/">NSF Graduate Research Fellowship</a>.
+
+Previously I worked on distributed learning algorithms for underwater
+exploration with application to biological surveying tasks. Before that, I was
+an undergraduate student at <a href="http://www.stevens.edu/">Stevens Institute
+of Technology</a> where I did research on robot mapping in the <a
+href="http://personal.stevens.edu/~benglot/">Robust Field Autonomy Lab</a> under
+<a href="https://web.stevens.edu/facultyprofile/?id=2043">Brendan Englot</a>.
+
