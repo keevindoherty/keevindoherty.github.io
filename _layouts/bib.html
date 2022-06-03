@@ -14,9 +14,9 @@
 
         {%- if entry.img -%}
         {%- if entry.type == "phdthesis" -%}
-          <img class="img-fluid rounded" style="object-fit: contain" src="{{ entry.img }}">
+          <img class="img-fluid rounded hidden-mobile" style="object-fit: contain" src="{{ entry.img }}">
           {%- else -%}
-        <img class="img-fluid z-depth-2 rounded" style="object-fit: contain" src="{{ entry.img }}">
+        <img class="img-fluid z-depth-2 rounded hidden-mobile" style="object-fit: contain" src="{{ entry.img }}">
         {%- endif -%}
         {%- endif -%}
         </div>

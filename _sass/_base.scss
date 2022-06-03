@@ -586,3 +586,10 @@ html.transition *:after {
   font-size: 0.875rem;
   padding-top: 0.25rem;
 }
+
+@media (max-width: 767px) {
+.hidden-mobile {
+  display: none;
+}
+}
+
