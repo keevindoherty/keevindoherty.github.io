@@ -1,44 +1,51 @@
-# This is a workflow to build the website and deploy to Github
-# Adapted from https://github.com/m-pilia/m-pilia.github.io
-#
-# We specifically need this because we use the jekyll-scholar
-# plugin, and Github Pages does not allow custom plugins to run.
-
-name: Build
+name: deploy
 
 on:
   push:
-    branches-ignore:
-    - master
+    branches:
+      - master
+      - main
+  pull_request:
+    branches:
+      - master
+      - main
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout
-      uses: actions/checkout@v1
+    - name: Checkout code
+      uses: actions/checkout@v2
+    - name: Setup Ruby
+      uses: ruby/setup-ruby@v1
       with:
-        ref: source
-    - name: Build Jekyll site
+        ruby-version: '3.0.2'
+    - name: Enable bundler cache
+      uses: actions/cache@v2
+      with:
+        path: vendor/bundle
+        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+        restore-keys: |
+          ${{ runner.os }}-gems-
+    - name: Install deps
       run: |
-        set -xo pipefail
-        rm -rf _site/*
-        docker run --rm -v "$PWD:/srv/jekyll" --user $(id -u):$(id -g) -i martinopilia/m-pilia.github.io:latest jekyll build
-        # cp CNAME _site/CNAME
-    - name: Deploy
-      if: github.ref == 'refs/heads/source'
-      env:
-        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+        gem install bundler
+        bundle config path vendor/bundle
+        bundle install --jobs 4 --retry 3
+        npm install -g mermaid.cli
+    - name: Setup deploy options
+      id: setup
       run: |
-        set -xo pipefail
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git checkout master
-        ls -Q | grep -v _site | xargs rm -rf
-        mv _site/* .
-        rm -rf _site
-        rm -rf .jekyll-cache
-        [[ -n "$(git status --porcelain)" ]] || exit 0
-        git add .
-        git commit -m "Build $(git rev-parse source | grep -o '^.\{10\}')"
-        git push "https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" master
+        git config --global user.name "GitHub Action"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        if [[ ${GITHUB_REF} = refs/pull/*/merge ]]; then # pull request
+          echo "::set-output name=SRC_BRANCH::${GITHUB_HEAD_REF}"
+          echo "::set-output name=NO_PUSH::--no-push"
+        elif [[ ${GITHUB_REF} = refs/heads/* ]]; then # branch, e.g. master, source etc
+          echo "::set-output name=SRC_BRANCH::${GITHUB_REF#refs/heads/}"
+        fi
+        echo "::set-output name=DEPLOY_BRANCH::gh-pages"
+    - name: Deploy website 
+      run:  yes | bash bin/deploy --verbose ${{ steps.setup.outputs.NO_PUSH }}
+                    --src ${{ steps.setup.outputs.SRC_BRANCH }} 
+                    --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }} 
