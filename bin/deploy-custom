@@ -102,9 +102,9 @@ fi
 git checkout -b $DEPLOY_BRANCH
 
 # Build site
-if [ "$CSAIL" = true ]
+if [ "$CSAIL" = true ]; then
   bundle exec jekyll build --config _config_csail.yml
-elif [ "$MIT" = true ]
+elif [ "$MIT" = true ]; then
   bundle exec jekyll build --config _config_mit.yml
 else
   bundle exec jekyll build
