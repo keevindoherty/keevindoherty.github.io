@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
-./deploy
-./deploy-custom --csail
-./deploy-custom --mit
+./bin/deploy
+
+./bin/deploy-custom --csail
+
+./bin/deploy-custom --mit
