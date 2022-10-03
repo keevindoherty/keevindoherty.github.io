@@ -25,12 +25,8 @@ href="http://csail.mit.edu/">Computer Science and Artificial Intelligence Lab
 (CSAIL)</a>, where I'm advised by <a
 href="https://www.csail.mit.edu/person/john-leonard">John Leonard</a>.
 
-
 My research lies at the intersection of machine learning and autonomous robotic
-navigation. I'm particularly interested in two sorts of problems: achieving
-robust machine learning on robotic systems to the benefit of navigation tasks,
-and applying constraints imposed by the physical environment to aid in learning
-on robots. My research is funded in part by an <a
+navigation. I'm particularly interested in the algorithms and representations necessary to endow real robots with the ability to operate robustly over extended time horizons without human intervention, supported by active, lifelong learning. My research is funded in part by an <a
 href="https://www.nsfgrfp.org/">NSF Graduate Research Fellowship</a>.
 
 Previously I worked on distributed learning algorithms for underwater
