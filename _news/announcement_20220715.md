@@ -8,6 +8,6 @@ This past May, I presented our work on <a href="https://arxiv.org/abs/2204.11936
 
 <br>
 <br>
-<iframe class="hidden-mobile" width="560" height="315" src="https://www.youtube.com/watch?v=lu2e-ENmgqc&t=13129s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display: block; margin: auto; max-width: 100%;"></iframe>
+<iframe class="hidden-mobile" width="560" height="315" src="https://www.youtube.com/embed/lu2e-ENmgqc?start=13129" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display: block; margin: auto; max-width: 100%;"></iframe>
 <br>
 
