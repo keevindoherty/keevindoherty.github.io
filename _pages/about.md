@@ -16,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
 
 <p style="color:red;">I am currently on the job market applying for faculty and industry research scientist positions. Feel free to reach out:</p>
 
-<p style="color:red;text-align:center;"> kdoherty <at> mit.edu </p>
+<p style="color:red;text-align:center;"> kdoherty &lt;at&gt; mit.edu </p>
 
 I'm a PhD student at the <a href="http://www.mit.edu/">Massachusetts Institute
 of Technology</a> in the <a href="http://aeroastro.mit.edu/">AeroAstro
