@@ -14,10 +14,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<p style="color:red;">I am currently on the job market applying for faculty and industry research scientist positions. Feel free to reach out:</p>
-
-<p style="color:red;text-align:center;"> kdoherty &lt;at&gt; mit.edu </p>
-
 I'm a PhD student at the <a href="http://www.mit.edu/">Massachusetts Institute
 of Technology</a> in the <a href="http://aeroastro.mit.edu/">AeroAstro
 department</a>, as part of the <a href="http://mit.whoi.edu/">MIT/WHOI Joint
