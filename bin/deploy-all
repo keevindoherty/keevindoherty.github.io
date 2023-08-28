@@ -1,7 +1,0 @@
-#!/usr/bin/env bash
-
-./bin/deploy
-
-./bin/deploy-custom "--csail"
-
-./bin/deploy-custom "--mit"
