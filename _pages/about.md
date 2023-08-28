@@ -14,7 +14,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a PhD student at the <a href="http://www.mit.edu/">Massachusetts Institute
+I'm a robotics researcher at <a href="https://bostondynamics.com">Boston Dynamics</a> where I work on perception and state estimation for the Atlas humanoid robot.
+
+Previously, I completed my PhD at the <a href="http://www.mit.edu/">Massachusetts Institute
 of Technology</a> in the <a href="http://aeroastro.mit.edu/">AeroAstro
 department</a>, as part of the <a href="http://mit.whoi.edu/">MIT/WHOI Joint
 Program</a>. I am a member of the <a
@@ -27,8 +29,8 @@ My research lies at the intersection of machine learning and autonomous robotic
 navigation. I'm particularly interested in the algorithms and representations necessary to endow real robots with the ability to operate robustly over extended time horizons without human intervention, supported by active, lifelong learning. My research is funded in part by an <a
 href="https://www.nsfgrfp.org/">NSF Graduate Research Fellowship</a>.
 
-Previously I worked on distributed learning algorithms for underwater
-exploration with application to biological surveying tasks. Before that, I was
+In the past, I've also worked on distributed learning algorithms for underwater
+exploration with application to biological surveying tasks. Before my PhD, I was
 an undergraduate student at <a href="http://www.stevens.edu/">Stevens Institute
 of Technology</a> where I did research on robot mapping in the <a
 href="http://personal.stevens.edu/~benglot/">Robust Field Autonomy Lab</a> under
