@@ -26,13 +26,12 @@ href="http://csail.mit.edu/">Computer Science and Artificial Intelligence Lab
 href="https://www.csail.mit.edu/person/john-leonard">John Leonard</a>.
 
 My research interests are at the intersection of machine learning and autonomous robotic
-navigation. I'm particularly interested in the algorithms and representations necessary to endow real robots with the ability to operate robustly over extended time horizons without human intervention, supported by active, lifelong learning. My research is funded in part by an <a
+navigation. I'm particularly interested in the algorithms and representations necessary to endow real robots with the ability to operate robustly over extended time horizons without human intervention, supported by active, lifelong learning. My PhD work was supported in part by an <a
 href="https://www.nsfgrfp.org/">NSF Graduate Research Fellowship</a>.
 
-In the past, I worked on distributed learning algorithms for underwater
-exploration with application to biological surveying tasks. Before my PhD, I was
-an undergraduate student at <a href="http://www.stevens.edu/">Stevens Institute
-of Technology</a> where I did research on robot mapping in the <a
+Before my PhD, I was an undergraduate student at <a
+href="http://www.stevens.edu/">Stevens Institute of Technology</a> where I did
+research on robot mapping in the <a
 href="http://personal.stevens.edu/~benglot/">Robust Field Autonomy Lab</a> under
 <a href="https://web.stevens.edu/facultyprofile/?id=2043">Brendan Englot</a>.
 
